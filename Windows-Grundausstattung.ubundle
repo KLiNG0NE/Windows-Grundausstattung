@@ -1,0 +1,105 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "Avidemux.Avidemux",
+      "Name": "Avidemux",
+      "Version": "2.8.0.220109",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Brave.Brave",
+      "Name": "Brave",
+      "Version": "142.1.84.132",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "GIMP.GIMP.3",
+      "Name": "GIMP",
+      "Version": "3.0.6.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "GIMP.Help.3",
+      "Name": "GIMP Help 3.0.0",
+      "Version": "3.0.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Inkscape.Inkscape",
+      "Name": "Inkscape",
+      "Version": "1.4.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "LibreWolf.LibreWolf",
+      "Name": "LibreWolf",
+      "Version": "144.0.2-1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.AppInstaller",
+      "Name": "App Installer",
+      "Version": "1.27.350.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.PowerShell",
+      "Name": "PowerShell",
+      "Version": "7.5.4.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.WindowsTerminal",
+      "Name": "Windows Terminal",
+      "Version": "1.23.12811.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
+      "Name": "Notepad\u002B\u002B",
+      "Version": "8.8.7",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "TheDocumentFoundation.LibreOffice",
+      "Name": "LibreOffice",
+      "Version": "25.8.2.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "TheDocumentFoundation.LibreOffice.HelpPack",
+      "Name": "LibreOffice Help Pack",
+      "Version": "25.8.2.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "dotPDN.PaintDotNet",
+      "Name": "paint.net",
+      "Version": "5.1.9",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "eloston.ungoogled-chromium",
+      "Name": "Chromium",
+      "Version": "141.0.7390.122",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}
