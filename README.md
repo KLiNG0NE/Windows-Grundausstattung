@@ -4,10 +4,10 @@ Grundausstattung an kostenloser Software für Windows
 
 ---
 
-Die Datei
+Die Datei `Windows-Grundausstattung.ubundle` enthält ein Paketbündel mit einer soliden Grundausstattung an kostenloser Software, für den Paketmanager **UniGetUI**.
 
-Windows-Grundausstattung.ubundle
+### Voraussetzung
 
-enthält ein Paketbündel mit einer soliden Grundausstattung an kostenloser Software, für den Paketmanager UniGetUI.
+Der Paketmanager **UniGetUI** muss installiert sein.
 
 UniGetUI: https://www.marticliment.com/unigetui/
