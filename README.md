@@ -1,6 +1,6 @@
 # Windows-Grundausstattung
 
-Grundausstattung an kostenloser Software für Windows
+Grundausstattung kostenloser Software für Windows
 
 ---
 
